@@ -2,7 +2,7 @@
 ![](imag/header.jpg)
 
 ## Producto final
-
+Puedes observar la interfaz del producto final [aquí](https://laurajimenezb.github.io/LIM013-data-lovers/src/index.html)
 
 ## Definición del Producto
 
